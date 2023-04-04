@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from scipy.stats import norm
+from scipy.stats import norm, expon
 
 
 chat_id = 12162367 # Ваш chat ID, не меняйте название переменной
